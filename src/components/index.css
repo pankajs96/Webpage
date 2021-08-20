@@ -1,0 +1,63 @@
+.font{
+    font-family:"Times New Roman", Times, serif;
+}
+.flex-container{
+    display: flex;
+    background-color:rgb(138, 202, 108);
+}
+
+.home{
+    margin-right:  20px;
+    font-family:"Times New Roman", Times, serif;
+}
+
+.about{
+    margin-right: 20px;
+    font-family:"Times New Roman", Times, serif;
+}
+
+.register{
+    margin-left: 2%;
+    font-family:"Times New Roman", Times, serif;
+}
+.Login{
+    margin-left: 20px;
+    font-family:"Times New Roman", Times, serif;
+}
+.font{
+    font-family:"Times New Roman", Times, serif;
+}
+.cart{
+    margin-left:60%;
+}
+.pro{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 10px;
+    grid-column: 900px;
+    margin: 30px 90px 80px 60px;
+}
+.Finput{
+    margin-top: 20%;
+    padding-top: 20%;
+}
+.proimage{
+    max-width: 200px;
+    max-height: 130px;
+    align-content: center;
+}
+.protxt{
+    text-align: right;
+    text-decoration: underline;
+    
+}
+
+.procontent{
+    align-content: center;
+}
+#about{
+    font-size: 30px;
+    font-family:"Times New Roman", Times, serif;
+    color:rgb(0, 0, 192);
+    ;
+}
